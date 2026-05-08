@@ -142,7 +142,7 @@ ORDER BY total_responses DESC;
 
 ## Files
 - [Sports_Participation_Survey.md](https://github.com/bhilliv719/sports-participation-data-initiative/blob/main/Sports_Participation_Survey.md) — Full survey questions used for data collection
-- [sports_participation_queries.sql](link) — All SQL queries used in the analysis
+- [sports_participation_queries.sql](https://github.com/bhilliv719/sports-participation-data-initiative/blob/main/sports_participation_queries.sql) — All SQL queries used in the analysis
 
 ---
 
